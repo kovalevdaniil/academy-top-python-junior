@@ -1,8 +1,22 @@
 <h1>Курс Python Junior</h1>
-<h2>Содержание</h2>
-<ul>
-  <li>Ссылки на установщики необходимых программ</li>
-</ul>
+<nav>
+  <h2>Содержание</h2>
+  <ol>
+    <li><a href="#urls">Ссылки на установщики необходимых программ</a></li>
+    <li><a href="#rules">Указания к работе с репозиторием</a></li>
+    <li><a href="#lessons">Уроки</a></li>
+    <ul>
+      <li><a href="#input-output">Ввод-вывод данных</a></li>
+      <li><a href="#operations">Арифметические операции</a></li>
+      <li><a href="#if-else">Условный оператор</a></li>
+      <li><a href="#turtle">Черепашья графика</a></li>
+      <li><a href="#while">Цикл while</a></li>
+      <li><a href="#for">Цикл for</a></li>
+      <li><a href="#list">Списки</a></li>
+    </ul>
+  </ol>
+</nav>
+
 <h2 id="urls">Ссылки на установщики необходимых программ</h2>
 <ul>
   <li>Язык Python: <a href="https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe">Windows Installer (64-bit)</a></li>
